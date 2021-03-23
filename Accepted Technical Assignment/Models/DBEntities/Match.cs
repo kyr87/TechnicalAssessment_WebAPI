@@ -21,4 +21,10 @@ namespace Accepted_Technical_Assignment.Models.DBEntities
 
         public virtual ICollection<MatchOdd> MatchOdds { get; set; }
     }
+
+    public enum Sports
+    {
+        Football = 1,
+        Basketball = 2
+    }
 }
