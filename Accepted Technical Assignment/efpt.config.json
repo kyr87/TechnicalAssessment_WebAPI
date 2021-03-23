@@ -1,0 +1,39 @@
+﻿{
+   "CodeGenerationMode": 1,
+   "ContextClassName": "SportBettingContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models.DBEntities",
+   "ProjectRootNamespace": "Accepted_Technical_Assignment",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Match]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MatchOdds]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-E888\\SQLEXPRESS.SportBetting",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSpatial": false
+}
